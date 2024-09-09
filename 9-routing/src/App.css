@@ -1,0 +1,8 @@
+.topbar {
+  background-color: gray;
+}
+
+.button-no-background {
+  background: none;
+  width: 25%;
+}

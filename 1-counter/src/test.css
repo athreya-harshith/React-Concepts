@@ -1,0 +1,10 @@
+#drawer {
+    width: 150px;
+    height: 100vh;
+    background-color: aquamarine;
+}
+#nav {
+    width: 100vw;
+    height: 50px;
+    background-color: gray;
+}
